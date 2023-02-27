@@ -1,0 +1,15 @@
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\bin\Debug\net6.0\logicaProgramacional.exe
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\bin\Debug\net6.0\logicaProgramacional.deps.json
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\bin\Debug\net6.0\logicaProgramacional.runtimeconfig.json
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\bin\Debug\net6.0\logicaProgramacional.dll
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\bin\Debug\net6.0\logicaProgramacional.pdb
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.csproj.AssemblyReference.cache
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.dll
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\refint\logicaProgramacional.dll
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.pdb
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\logicaProgramacional.genruntimeconfig.cache
+C:\Users\Carlos\source\repos\logicaProgramacional\logicaProgramacional\obj\Debug\net6.0\ref\logicaProgramacional.dll
